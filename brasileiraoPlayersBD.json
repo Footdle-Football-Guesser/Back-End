@@ -1,0 +1,1250 @@
+[
+  {
+    "name": "Sergio Rochet",
+    "position": "goleiro",
+    "nationality": "Uruguai",
+    "shirtNumber": 1,
+    "age": 31,
+    "team": "Internacional"
+  },
+  {
+    "name": "Ivan",
+    "position": "goleiro",
+    "nationality": "Brasil",
+    "shirtNumber": 22,
+    "age": 27,
+    "team": "Internacional"
+  },
+  {
+    "name": "Anthoni",
+    "position": "goleiro",
+    "nationality": "Brasil",
+    "shirtNumber": 24,
+    "age": 22,
+    "team": "Internacional"
+  },
+  {
+    "name": "Fabrício",
+    "position": "goleiro",
+    "nationality": "Brasil",
+    "shirtNumber": 12,
+    "age": 38,
+    "team": "Internacional"
+  },
+  {
+    "name": "Kauan",
+    "position": "goleiro",
+    "nationality": "Brasil",
+    "shirtNumber": 22,
+    "age": 21,
+    "team": "Internacional"
+  },
+  {
+    "name": "Vitão",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "shirtNumber": 44,
+    "age": 24,
+    "team": "Internacional"
+  },
+  {
+    "name": "Clayton",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "shirtNumber": 20,
+    "age": 24,
+    "team": "Internacional"
+  },
+  {
+    "name": "Agustín Rogel",
+    "position": "defensor",
+    "nationality": "Uruguai",
+    "shirtNumber": 18,
+    "age": 27,
+    "team": "Internacional"
+  },
+  {
+    "name": "Gabriel Mercado",
+    "position": "defensor",
+    "nationality": "Argentina",
+    "shirtNumber": 25,
+    "age": 37,
+    "team": "Internacional"
+  },
+  {
+    "name": "Alexandro Bernabéi",
+    "position": "defensor",
+    "nationality": "Argentina",
+    "shirtNumber": 26,
+    "age": 24,
+    "team": "Internacional"
+  },
+  {
+    "name": "Renê",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "shirtNumber": 6,
+    "age": 32,
+    "team": "Internacional"
+  },
+  {
+    "name": "Nathan",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "shirtNumber": 23,
+    "age": 23,
+    "team": "Internacional"
+  },
+  {
+    "name": "Braian Aguirre",
+    "position": "defensor",
+    "nationality": "Argentina",
+    "shirtNumber": 35,
+    "age": 24,
+    "team": "Internacional"
+  },
+  {
+    "name": "Thiago Maia",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 29,
+    "age": 27,
+    "team": "Internacional"
+  },
+  {
+    "name": "Bruno Gomes",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 15,
+    "age": 23,
+    "team": "Internacional"
+  },
+  {
+    "name": "Fernando",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 5,
+    "age": 37,
+    "team": "Internacional"
+  },
+  {
+    "name": "Rômulo",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 40,
+    "age": 24,
+    "team": "Internacional"
+  },
+  {
+    "name": "Bruno Henrique",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 8,
+    "age": 35,
+    "team": "Internacional"
+  },
+  {
+    "name": "Gustavo Prado",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 47,
+    "age": 19,
+    "team": "Internacional"
+  },
+  {
+    "name": "Alan Patrick",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 10,
+    "age": 33,
+    "team": "Internacional"
+  },
+  {
+    "name": "Gabriel Carvalho",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 34,
+    "age": 17,
+    "team": "Internacional"
+  },
+  {
+    "name": "Hyoran",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 7,
+    "age": 31,
+    "team": "Internacional"
+  },
+  {
+    "name": "Wanderson",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "shirtNumber": 11,
+    "age": 30,
+    "team": "Internacional"
+  },
+  {
+    "name": "Wesley",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "shirtNumber": 21,
+    "age": 25,
+    "team": "Internacional"
+  },
+  {
+    "name": "Bruno Tabata",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "shirtNumber": 17,
+    "age": 27,
+    "team": "Internacional"
+  },
+  {
+    "name": "Rafael Borré",
+    "position": "atacante",
+    "nationality": "Colômbia",
+    "shirtNumber": 19,
+    "age": 29,
+    "team": "Internacional"
+  },
+  {
+    "name": "Enner Valencia",
+    "position": "atacante",
+    "nationality": "Equador",
+    "shirtNumber": 13,
+    "age": 35,
+    "team": "Internacional"
+  },
+  {
+    "name": "Lucas Alario",
+    "position": "atacante",
+    "nationality": "Argentina",
+    "shirtNumber": 31,
+    "age": 32,
+    "team": "Internacional"
+  },
+  {
+    "name": "Lucca",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "shirtNumber": 45,
+    "age": 21,
+    "team": "Internacional"
+  },
+  {
+    "name": "Ricardo Mathias",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "shirtNumber": 49,
+    "age": 18,
+    "team": "Internacional"
+  },
+  {
+    "name": "Lucca Drummond",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "shirtNumber": 48,
+    "age": 20,
+    "team": "Internacional"
+  },
+  {
+    "name": "Agustín Rossi",
+    "position": "goleiro",
+    "nationality": "Argentina",
+    "age": 29,
+    "team": "Flamengo",
+    "shirtNumber": 1
+  },
+  {
+    "name": "Matheus Cunha",
+    "position": "goleiro",
+    "nationality": "Brasil",
+    "age": 23,
+    "team": "Flamengo",
+    "shirtNumber": 25
+  },
+  {
+    "name": "Léo Ortiz",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "age": 28,
+    "team": "Flamengo",
+    "shirtNumber": 3
+  },
+  {
+    "name": "Léo Pereira",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "age": 28,
+    "team": "Flamengo",
+    "shirtNumber": 4
+  },
+  {
+    "name": "Fabrício Bruno",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "age": 28,
+    "team": "Flamengo",
+    "shirtNumber": 15
+  },
+  {
+    "name": "David Luiz",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "age": 37,
+    "team": "Flamengo",
+    "shirtNumber": 23
+  },
+  {
+    "name": "Cleiton",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "age": 21,
+    "team": "Flamengo",
+    "shirtNumber": 33
+  },
+  {
+    "name": "Matías Viña",
+    "position": "defensor",
+    "nationality": "Uruguai",
+    "age": 26,
+    "team": "Flamengo",
+    "shirtNumber": 17
+  },
+  {
+    "name": "Ayrton Lucas",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "age": 27,
+    "team": "Flamengo",
+    "shirtNumber": 6
+  },
+  {
+    "name": "Alex Sandro",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "age": 33,
+    "team": "Flamengo",
+    "shirtNumber": 26
+  },
+  {
+    "name": "Wesley",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "age": 21,
+    "team": "Flamengo",
+    "shirtNumber": 43
+  },
+  {
+    "name": "Guillermo Varela",
+    "position": "defensor",
+    "nationality": "Uruguai",
+    "age": 31,
+    "team": "Flamengo",
+    "shirtNumber": 2
+  },
+  {
+    "name": "Allan",
+    "position": "meia",
+    "nationality": "Brasil",
+    "age": 27,
+    "team": "Flamengo",
+    "shirtNumber": 29
+  },
+  {
+    "name": "Erick Pulgar",
+    "position": "meia",
+    "nationality": "Chile",
+    "age": 30,
+    "team": "Flamengo",
+    "shirtNumber": 5
+  },
+  {
+    "name": "Evertton Araújo",
+    "position": "meia",
+    "nationality": "Brasil",
+    "age": 21,
+    "team": "Flamengo",
+    "shirtNumber": 52
+  },
+  {
+    "name": "Nicolás de la Cruz",
+    "position": "meia",
+    "nationality": "Uruguai",
+    "age": 27,
+    "team": "Flamengo",
+    "shirtNumber": 18
+  },
+  {
+    "name": "Carlos Alcaraz",
+    "position": "meia",
+    "nationality": "Argentina",
+    "age": 21,
+    "team": "Flamengo",
+    "shirtNumber": 37
+  },
+  {
+    "name": "Gerson",
+    "position": "meia",
+    "nationality": "Brasil",
+    "age": 27,
+    "team": "Flamengo",
+    "shirtNumber": 8
+  },
+  {
+    "name": "Giorgian de Arrascaeta",
+    "position": "meia",
+    "nationality": "Uruguai",
+    "age": 30,
+    "team": "Flamengo",
+    "shirtNumber": 14
+  },
+  {
+    "name": "Lorran",
+    "position": "meia",
+    "nationality": "Brasil",
+    "age": 18,
+    "team": "Flamengo",
+    "shirtNumber": 19
+  },
+  {
+    "name": "Everton",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "age": 28,
+    "team": "Flamengo",
+    "shirtNumber": 11
+  },
+  {
+    "name": "Bruno Henrique",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "age": 33,
+    "team": "Flamengo",
+    "shirtNumber": 27
+  },
+  {
+    "name": "Michael",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "age": 28,
+    "team": "Flamengo",
+    "shirtNumber": 30
+  },
+  {
+    "name": "Gonzalo Plata",
+    "position": "atacante",
+    "nationality": "Equador",
+    "age": 24,
+    "team": "Flamengo",
+    "shirtNumber": 45
+  },
+  {
+    "name": "Luiz Araújo",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "age": 28,
+    "team": "Flamengo",
+    "shirtNumber": 7
+  },
+  {
+    "name": "Matheus Gonçalves",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "age": 19,
+    "team": "Flamengo",
+    "shirtNumber": 20
+  },
+  {
+    "name": "Pedro",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "age": 27,
+    "team": "Flamengo",
+    "shirtNumber": 9
+  },
+  {
+    "name": "Gabriel Barbosa",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "age": 28,
+    "team": "Flamengo",
+    "shirtNumber": 99
+  },
+  {
+    "name": "Carlinhos",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "age": 27,
+    "team": "Flamengo",
+    "shirtNumber": 22
+  },
+  {
+    "name": "Hugo Souza",
+    "position": "goleiro",
+    "nationality": "Brasil",
+    "age": 25,
+    "team": "Corinthians",
+    "shirtNumber": 1
+  },
+  {
+    "name": "Matheus Donelli",
+    "position": "goleiro",
+    "nationality": "Brasil",
+    "age": 22,
+    "team": "Corinthians",
+    "shirtNumber": 32
+  },
+  {
+    "name": "Félix Torres",
+    "position": "defensor",
+    "nationality": "Equador",
+    "age": 27,
+    "team": "Corinthians",
+    "shirtNumber": 3
+  },
+  {
+    "name": "André Ramalho",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "age": 32,
+    "team": "corinthians",
+    "shirtNumber": 5
+  },
+  {
+    "name": "Caetano",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "age": 25,
+    "team": "Corinthians",
+    "shirtNumber": 4
+  },
+  {
+    "name": "Cacá",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "age": 25,
+    "team": "Corinthians",
+    "shirtNumber": 25
+  },
+  {
+    "name": "Gustavo Henrique",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "age": 31,
+    "team": "Corinthians",
+    "shirtNumber": 13
+  },
+  {
+    "name": "Diego Palacios",
+    "position": "defensor",
+    "nationality": "Equador",
+    "age": 25,
+    "team": "Corinthians",
+    "shirtNumber": 6
+  },
+  {
+    "name": "Matheus Bidu",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "age": 25,
+    "team": "Corinthians",
+    "shirtNumber": 21
+  },
+  {
+    "name": "Hugo",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "age": 27,
+    "team": "Corinthians",
+    "shirtNumber": 46
+  },
+  {
+    "name": "Matheuzinho",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "age": 24,
+    "team": "Corinthians",
+    "shirtNumber": 2
+  },
+  {
+    "name": "Léo Mana",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "age": 20,
+    "team": "Corinthians",
+    "shirtNumber": 35
+  },
+  {
+    "name": "Fagner",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "age": 35,
+    "team": "Corinthians",
+    "shirtNumber": 23
+  },
+  {
+    "name": "Raniele",
+    "position": "meia",
+    "nationality": "Brasil",
+    "age": 27,
+    "team": "Corinthians",
+    "shirtNumber": 14
+  },
+  {
+    "name": "José Martínez",
+    "position": "meia",
+    "nationality": "Venezuela",
+    "age": 30,
+    "team": "Corinthians",
+    "shirtNumber": 70
+  },
+  {
+    "name": "Ryan",
+    "position": "meia",
+    "nationality": "Brasil",
+    "age": 21,
+    "team": "Corinthians",
+    "shirtNumber": 37
+  },
+  {
+    "name": "Breno Bidon",
+    "position": "meia",
+    "nationality": "Brasil",
+    "age": 19,
+    "team": "Corinthians",
+    "shirtNumber": 27
+  },
+  {
+    "name": "Maycon",
+    "position": "meia",
+    "nationality": "Brasil",
+    "age": 27,
+    "team": "Corinthians",
+    "shirtNumber": 7
+  },
+  {
+    "name": "Alex Santana",
+    "position": "meia",
+    "nationality": "Brasil",
+    "age": 29,
+    "team": "Corinthians",
+    "shirtNumber": 80
+  },
+  {
+    "name": "Charles",
+    "position": "meia",
+    "nationality": "Brasil",
+    "age": 28,
+    "team": "Corinthians",
+    "shirtNumber": 8
+  },
+  {
+    "name": "Ruan Oliveira",
+    "position": "meia",
+    "nationality": "Brasil",
+    "age": 24,
+    "team": "Corinthians",
+    "shirtNumber": 33
+  },
+  {
+    "name": "Rodrigo Garro",
+    "position": "meia",
+    "nationality": "Argentina",
+    "age": 26,
+    "team": "Corinthians",
+    "shirtNumber": 10
+  },
+  {
+    "name": "Igor Coronado",
+    "position": "meia",
+    "nationality": "Itália",
+    "age": 32,
+    "team": "Corinthians",
+    "shirtNumber": 77
+  },
+  {
+    "name": "Matheus Araújo",
+    "position": "meia",
+    "nationality": "Brasil",
+    "age": 22,
+    "team": "Corinthians",
+    "shirtNumber": 30
+  },
+  {
+    "name": "Talles Magno",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "age": 22,
+    "team": "Corinthians",
+    "shirtNumber": 43
+  },
+  {
+    "name": "Ángel Romero",
+    "position": "atacante",
+    "nationality": "Paraguai",
+    "age": 32,
+    "team": "Corinthians",
+    "shirtNumber": 11
+  },
+  {
+    "name": "André Carrillo",
+    "position": "atacante",
+    "nationality": "Perú",
+    "age": 33,
+    "team": "Corinthians",
+    "shirtNumber": 19
+  },
+  {
+    "name": "Pedro Henrique",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "age": 34,
+    "team": "Corinthians",
+    "shirtNumber": 16
+  },
+  {
+    "name": "Yuri Alberto",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "age": 23,
+    "team": "Corinthians",
+    "shirtNumber": 9
+  },
+  {
+    "name": "Memphis Depay",
+    "position": "atacante",
+    "nationality": "Holanda",
+    "age": 30,
+    "team": "Corinthians",
+    "shirtNumber": 94
+  },
+  {
+    "name": "Giovane",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "age": 20,
+    "team": "Corinthians",
+    "shirtNumber": 17
+  },
+  {
+    "name": "Pedro Raul",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "age": 28,
+    "team": "Corinthians",
+    "shirtNumber": 20
+  },
+  {
+    "name": "Héctor Hernández",
+    "position": "atacante",
+    "nationality": "Espanha",
+    "age": 29,
+    "team": "Corinthians",
+    "shirtNumber": 22
+  },
+  {
+    "name": "Léo Jardim",
+    "position": "goleiro",
+    "nationality": "Brasil",
+    "shirtNumber": 1,
+    "age": 29,
+    "team": "Vasco"
+  },
+  {
+    "name": "Keiller",
+    "position": "goleiro",
+    "nationality": "Brasil",
+    "shirtNumber": 13,
+    "age": 28,
+    "team": "Vasco"
+  },
+  {
+    "name": "Pablo",
+    "position": "goleiro",
+    "nationality": "Brasil",
+    "shirtNumber": 37,
+    "age": 21,
+    "team": "Vasco"
+  },
+  {
+    "name": "João Victor",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "shirtNumber": 38,
+    "age": 26,
+    "team": "Vasco"
+  },
+  {
+    "name": "Léo",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "shirtNumber": 3,
+    "age": 28,
+    "team": "Vasco"
+  },
+  {
+    "name": "Robert Rojas",
+    "position": "defensor",
+    "nationality": "Paraguai",
+    "shirtNumber": 32,
+    "age": 28,
+    "team": "Vasco"
+  },
+  {
+    "name": "Maicon",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "shirtNumber": 4,
+    "age": 36,
+    "team": "Vasco"
+  },
+  {
+    "name": "Lucas Piton",
+    "position": "defensor",
+    "nationality": "Itália",
+    "shirtNumber": 6,
+    "age": 24,
+    "team": "Vasco"
+  },
+  {
+    "name": "Leandrinho",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "shirtNumber": 66,
+    "age": 19,
+    "team": "Vasco"
+  },
+  {
+    "name": "Victor Luís",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "shirtNumber": 12,
+    "age": 31,
+    "team": "Vasco"
+  },
+  {
+    "name": "José Luis Rodríguez",
+    "position": "defensor",
+    "nationality": "Uruguai",
+    "shirtNumber": 2,
+    "age": 27,
+    "team": "Vasco"
+  },
+  {
+    "name": "Paulo Henrique",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "shirtNumber": 96,
+    "age": 28,
+    "team": "Vasco"
+  },
+  {
+    "name": "Juan Sforza",
+    "position": "meia",
+    "nationality": "Argentina",
+    "shirtNumber": 20,
+    "age": 22,
+    "team": "Vasco"
+  },
+  {
+    "name": "Hugo Moura",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 25,
+    "age": 26,
+    "team": "Vasco"
+  },
+  {
+    "name": "Mateus Carvalho",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 85,
+    "age": 22,
+    "team": "Vasco"
+  },
+  {
+    "name": "Souza",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 5,
+    "age": 35,
+    "team": "Vasco"
+  },
+  {
+    "name": "Jair",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 8,
+    "age": 30,
+    "team": "Vasco"
+  },
+  {
+    "name": "Pablo Galdames",
+    "position": "meia",
+    "nationality": "Chile",
+    "shirtNumber": 27,
+    "age": 27,
+    "team": "Vasco"
+  },
+  {
+    "name": "Paulinho Paula",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 18,
+    "age": 27,
+    "team": "Vasco"
+  },
+  {
+    "name": "JP",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 98,
+    "age": 19,
+    "team": "Vasco"
+  },
+  {
+    "name": "Philippe Coutinho",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 11,
+    "age": 32,
+    "team": "Vasco"
+  },
+  {
+    "name": "Dimitri Payet",
+    "position": "meia",
+    "nationality": "França",
+    "shirtNumber": 10,
+    "age": 37,
+    "team": "Vasco"
+  },
+  {
+    "name": "Maxime Dominguez",
+    "position": "meia",
+    "nationality": "Suiça",
+    "shirtNumber": 26,
+    "age": 28,
+    "team": "Vasco"
+  },
+  {
+    "name": "Guilherme Estrella",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 14,
+    "age": 19,
+    "team": "Vasco"
+  },
+  {
+    "name": "Jean Meneses",
+    "position": "atacante",
+    "nationality": "Chile",
+    "shirtNumber": 21,
+    "age": 31,
+    "team": "Vasco"
+  },
+  {
+    "name": "David",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "shirtNumber": 7,
+    "age": 29,
+    "team": "Vasco"
+  },
+  {
+    "name": "Alex Teixeira",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "shirtNumber": 90,
+    "age": 34,
+    "team": "Vasco"
+  },
+  {
+    "name": "Rayan",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "shirtNumber": 77,
+    "age": 18,
+    "team": "Vasco"
+  },
+  {
+    "name": "Adson",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "shirtNumber": 28,
+    "age": 24,
+    "team": "Vasco"
+  },
+  {
+    "name": "Emerson Rodríguez",
+    "position": "atacante",
+    "nationality": "Colômbia",
+    "shirtNumber": 17,
+    "age": 24,
+    "team": "Vasco"
+  },
+  {
+    "name": "Rossi",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "shirtNumber": 31,
+    "age": 31,
+    "team": "Vasco"
+  },
+  {
+    "name": "GB",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "shirtNumber": 19,
+    "age": 19,
+    "team": "Vasco"
+  },
+  {
+    "name": "Pablo Vegetti",
+    "position": "atacante",
+    "nationality": "Argentina",
+    "shirtNumber": 99,
+    "age": 36,
+    "team": "Vasco"
+  },
+  {
+    "name": "Weverton",
+    "position": "goleiro",
+    "nationality": "Brasil",
+    "shirtNumber": 21,
+    "age": 36,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Marcelo Lomba",
+    "position": "goleiro",
+    "nationality": "Brasil",
+    "shirtNumber": 14,
+    "age": 37,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Mateus",
+    "position": "goleiro",
+    "nationality": "Brasil",
+    "shirtNumber": 1,
+    "age": 22,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Vitor Reis",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "shirtNumber": 44,
+    "age": 18,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Murilo",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "shirtNumber": 26,
+    "age": 27,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Gustavo Gómez",
+    "position": "defensor",
+    "nationality": "Paraguai",
+    "shirtNumber": 15,
+    "age": 31,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Naves",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "shirtNumber": 34,
+    "age": 22,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Michel",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "shirtNumber": 33,
+    "age": 21,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Joaquín Piquerez",
+    "position": "defensor",
+    "nationality": "Uruguai",
+    "shirtNumber": 22,
+    "age": 26,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Vanderlan",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "shirtNumber": 6,
+    "age": 22,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Caio Paulista",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "shirtNumber": 16,
+    "age": 26,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Agustín Giay",
+    "position": "defensor",
+    "nationality": "Argentina",
+    "shirtNumber": 4,
+    "age": 20,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Mayke",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "shirtNumber": 12,
+    "age": 31,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Marcos Rocha",
+    "position": "defensor",
+    "nationality": "Brasil",
+    "shirtNumber": 2,
+    "age": 35,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Aníbal Moreno",
+    "position": "meia",
+    "nationality": "Argentina",
+    "shirtNumber": 5,
+    "age": 25,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Fabinho",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 35,
+    "age": 22,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Richard Ríos",
+    "position": "meia",
+    "nationality": "Colômbia",
+    "shirtNumber": 27,
+    "age": 24,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Gabriel Menino",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 25,
+    "age": 24,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Zé Rafael",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 8,
+    "age": 31,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Raphael Veiga",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 23,
+    "age": 29,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Mauricio",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 18,
+    "age": 23,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Rômulo",
+    "position": "meia",
+    "nationality": "Brasil",
+    "shirtNumber": 20,
+    "age": 23,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Felipe Anderson",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "shirtNumber": 9,
+    "age": 31,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Dudu",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "shirtNumber": 7,
+    "age": 32,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Bruno Rodrigues",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "shirtNumber": 11,
+    "age": 27,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Lázaro",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "shirtNumber": 17,
+    "age": 22,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Estêvão",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "shirtNumber": 41,
+    "age": 17,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Rony",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "shirtNumber": 10,
+    "age": 29,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "José Manuel López",
+    "position": "atacante",
+    "nationality": "Argentina",
+    "shirtNumber": 42,
+    "age": 23,
+    "team": "Palmeiras"
+  },
+  {
+    "name": "Luighi",
+    "position": "atacante",
+    "nationality": "Brasil",
+    "shirtNumber": 57,
+    "age": 18,
+    "team": "Palmeiras"
+  }
+]

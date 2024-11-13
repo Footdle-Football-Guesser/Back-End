@@ -10,17 +10,18 @@ import (
 
 func main() {
 	router := http.NewServeMux()
-	userDAO := NewUserDAO()
+	brasileiraoPlayerDAO := NewBrasileiraoPlayerDAO("brasileiraoPlayersBD.json")
 
-	router.HandleFunc("POST /users", func(w http.ResponseWriter, r *http.Request) {
+	// Nova rota para obter todos os jogadores do Brasileirão
+	router.HandleFunc("GET /brasileiraoPlayers", func(w http.ResponseWriter, r *http.Request) {
 		w.Header().Set("Content-Type", "application/json;charset=UTF-8")
-		var user User
-		err := json.NewDecoder(r.Body).Decode(&user)
+		players := brasileiraoPlayerDAO.GetAll()
+
+		err := json.NewEncoder(w).Encode(players)
 		if err != nil {
 			http.Error(w, err.Error(), http.StatusInternalServerError)
 			return
 		}
-		userDAO.Insert(NewUser(user.Id, user.Name, user.Score))
 	})
 
 	c := cors.AllowAll()
@@ -30,4 +31,5 @@ func main() {
 	if err != nil {
 		fmt.Println(err.Error())
 	}
+	fmt.Println("Ouvindo na porta 8080...")
 }
