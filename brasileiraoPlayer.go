@@ -1,30 +1,29 @@
 package main
 
-import (
-	"encoding/json"
-	"os"
-)
-
 type BrasileiraoPlayer struct {
+	Id          int    `json:"id"`
 	Name        string `json:"name"`
 	Position    string `json:"position"`
 	Nationality string `json:"nationality"`
-	Age         int32  `json:"age"`
-	ShirtNumber int32  `json:"shirtNumber"`
+	Age         int    `json:"age"`
+	ShirtNumber int    `json:"shirtNumber"`
 	Team        string `json:"team"`
 }
 
-func getAllPlayers() ([]BrasileiraoPlayer, error) {
-	data, err := os.ReadFile("brasileiraoPlayersBD.json")
-	if err != nil {
-		return nil, err
-	}
-
-	var players []BrasileiraoPlayer
-	err = json.Unmarshal(data, &players)
-	if err != nil {
-		return nil, err
-	}
-
-	return players, nil
+func NewBrasileiraoPlayer(id int,
+	name string,
+	position string,
+	nationality string,
+	age int,
+	shirtNumber int,
+	team string) *BrasileiraoPlayer {
+	player := new(BrasileiraoPlayer)
+	player.Id = id
+	player.Name = name
+	player.Age = age
+	player.Nationality = nationality
+	player.Team = team
+	player.Position = position
+	player.ShirtNumber = shirtNumber
+	return player
 }
