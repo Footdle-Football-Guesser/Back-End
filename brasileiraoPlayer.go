@@ -10,6 +10,7 @@ type BrasileiraoPlayer struct {
 	Team        string `json:"team"`
 }
 
+// Método construtor de brasileiraoPlayer
 func NewBrasileiraoPlayer(id int,
 	name string,
 	position string,

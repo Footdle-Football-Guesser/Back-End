@@ -8,7 +8,6 @@ type BrasileiraoPlayerDAO struct {
 	brasileiraoPlayers []*BrasileiraoPlayer
 }
 
-// Função para inicializar a DAO carregando os dados do arquivo JSON
 func NewBrasileiraoPlayerDAO(db *Database) *BrasileiraoPlayerDAO {
 	brasileiraoPlayerDAO := new(BrasileiraoPlayerDAO)
 	brasileiraoPlayerDAO.db = db
@@ -35,4 +34,38 @@ func (dao *BrasileiraoPlayerDAO) GetAll() []*BrasileiraoPlayer {
 		dao.brasileiraoPlayers = append(dao.brasileiraoPlayers, NewBrasileiraoPlayer(id, name, position, nationality, age, shirtNumber, team))
 	}
 	return dao.brasileiraoPlayers
+}
+
+func (playerDAO *BrasileiraoPlayerDAO) Insert(player *BrasileiraoPlayer) error {
+	db := playerDAO.db.Get()
+	query := `INSERT INTO "brasileiraoPlayers" ("name", "position", nationality, "shirtNumber", age, team) values ($1, $2, $3, $4, $5, $6)`
+	_, err := db.Query(query, player.Name, player.Position, player.Nationality, player.ShirtNumber, player.Age, player.Team)
+	if err != nil {
+		return err
+	}
+	return nil
+}
+
+func (playerDAO *BrasileiraoPlayerDAO) Delete(id string) error {
+	db := playerDAO.db.Get()
+	query := `DELETE FROM "brasileiraoPlayers" WHERE id=$1`
+	_, err := db.Query(query, id)
+	if err != nil {
+		return err
+	}
+	return nil
+}
+
+func (playerDAO *BrasileiraoPlayerDAO) Update(id string, player *BrasileiraoPlayer) error {
+	db := playerDAO.db.Get()
+	query := `
+		UPDATE "brasileiraoPlayers"
+		SET "name"=$1, "position"=$2, nationality=$3, "shirtNumber"=$4, age=$5, team=$6
+		WHERE id=$7
+	`
+	_, err := db.Exec(query, player.Name, player.Position, player.Nationality, player.ShirtNumber, player.Age, player.Team, id)
+	if err != nil {
+		return err
+	}
+	return nil
 }
