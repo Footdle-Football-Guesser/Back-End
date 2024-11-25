@@ -27,11 +27,11 @@ func (dao *BrasileiraoPlayerDAO) GetAll() []*BrasileiraoPlayer {
 		var name string
 		var position string
 		var nationality string
-		var age int
 		var shirtNumber int
+		var age int
 		var team string
 		rows.Scan(&id, &name, &position, &nationality, &age, &shirtNumber, &team)
-		dao.brasileiraoPlayers = append(dao.brasileiraoPlayers, NewBrasileiraoPlayer(id, name, position, nationality, age, shirtNumber, team))
+		dao.brasileiraoPlayers = append(dao.brasileiraoPlayers, NewBrasileiraoPlayer(id, name, position, nationality, shirtNumber, age, team))
 	}
 	return dao.brasileiraoPlayers
 }
