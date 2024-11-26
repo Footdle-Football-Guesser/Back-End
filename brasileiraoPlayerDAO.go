@@ -18,10 +18,18 @@ func NewBrasileiraoPlayerDAO(db *Database) *BrasileiraoPlayerDAO {
 // Método para obter todos os jogadores
 func (dao *BrasileiraoPlayerDAO) GetAll() []*BrasileiraoPlayer {
 	db := dao.db.Get()
+
+	// Reinicializa a slice para evitar acúmulo de dados
+	dao.brasileiraoPlayers = []*BrasileiraoPlayer{}
+
 	rows, err := db.Query(`SELECT * FROM "brasileiraoPlayers"`)
+
 	if err != nil {
 		fmt.Println(err.Error())
 	}
+
+	defer rows.Close() // Fecha as rows para evitar vazamentos de recursos
+
 	for rows.Next() {
 		var id int
 		var name string
@@ -30,7 +38,7 @@ func (dao *BrasileiraoPlayerDAO) GetAll() []*BrasileiraoPlayer {
 		var shirtNumber int
 		var age int
 		var team string
-		rows.Scan(&id, &name, &position, &nationality, &age, &shirtNumber, &team)
+		rows.Scan(&id, &name, &position, &nationality, &shirtNumber, &age, &team)
 		dao.brasileiraoPlayers = append(dao.brasileiraoPlayers, NewBrasileiraoPlayer(id, name, position, nationality, shirtNumber, age, team))
 	}
 	return dao.brasileiraoPlayers
