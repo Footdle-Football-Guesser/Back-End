@@ -84,7 +84,6 @@ func main() {
 		json.NewEncoder(w).Encode(response)
 	})
 
-	//PUT
 	// PUT
 	router.HandleFunc("/updateBrasileiraoPlayer/{id}", func(w http.ResponseWriter, r *http.Request) {
 		if r.Method != http.MethodPut {
@@ -96,6 +95,7 @@ func main() {
 
 		var updatedPlayer BrasileiraoPlayer
 		err := json.NewDecoder(r.Body).Decode(&updatedPlayer)
+
 		if err != nil {
 			http.Error(w, "Erro ao decodificar os dados: "+err.Error(), http.StatusBadRequest)
 			return

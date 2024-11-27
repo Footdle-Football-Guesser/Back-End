@@ -5,8 +5,8 @@ type BrasileiraoPlayer struct {
 	Name        string `json:"name"`
 	Position    string `json:"position"`
 	Nationality string `json:"nationality"`
-	Age         int    `json:"age"`
 	ShirtNumber int    `json:"shirtNumber"`
+	Age         int    `json:"age"`
 	Team        string `json:"team"`
 }
 
@@ -15,8 +15,8 @@ func NewBrasileiraoPlayer(id int,
 	name string,
 	position string,
 	nationality string,
-	age int,
 	shirtNumber int,
+	age int,
 	team string) *BrasileiraoPlayer {
 	player := new(BrasileiraoPlayer)
 	player.Id = id
